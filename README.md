@@ -1,6 +1,3 @@
-# preparing-chicago-crime-data
- 
-- This repo contains a notebook for processing Chiacgo Crime data into a repo-friendly format. 
-- To use this notebook: 
-    - either fork this repository to your own account, and then rename it to be someting like "Project-4"
-    - or download the notebook and save it in your own Project 4 repository.
+# Chicago Crime Data
+
+![image](https://user-images.githubusercontent.com/116851632/231937558-6b912ca8-c3ea-476d-8b16-21b3ee0f8ec2.png)
